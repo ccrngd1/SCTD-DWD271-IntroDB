@@ -1,0 +1,1 @@
+alter table EmployeeSkills add foreign key ('SkillId') references Skill(SkillID);
